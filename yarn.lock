@@ -20261,12 +20261,12 @@ __metadata:
   linkType: hard
 
 "https-proxy-agent@npm:^2.2.1":
-  version: 2.2.2
-  resolution: "https-proxy-agent@npm:2.2.2"
+  version: 2.2.4
+  resolution: "https-proxy-agent@npm:2.2.4"
   dependencies:
     agent-base: "npm:^4.3.0"
     debug: "npm:^3.1.0"
-  checksum: 10c0/cbc1acf06ffc70e9aeae848e009af484e8d12b831981981d0a9212584b7f51f72cd1191df585ae0f0e0084d65b182a431d5f16e21efa3b5aff98f7a1f321c19f
+  checksum: 10c0/4bdde8fcd9ea0adc4a77282de2b4f9e27955e0441425af0f27f0fe01006946b80eaee6749e08e838d350c06ed2ebd5d11347d3beb88c45eacb0667e27276cdad
   languageName: node
   linkType: hard
 
